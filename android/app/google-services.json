@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593798097129",
+    "project_id": "agri-pro-ae630",
+    "storage_bucket": "agri-pro-ae630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593798097129:android:a2cd152c5b5fde03ace878",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKifAt-xLE-hv1tMr0kCocmGzUQnEhB64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
