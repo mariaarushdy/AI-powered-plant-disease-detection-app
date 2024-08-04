@@ -1,0 +1,9 @@
+<launch>
+    <!-- Launch the talker node -->
+    <node name="take4WP" pkg="mavros_py" type="takeWaypointsfb.py" output="screen">
+    </node>
+
+    <!-- Launch the listener node -->
+    <node name="geneWP" pkg="mavros_py" type="waypoints.py" output="screen" />
+    <node name="vidStream" pkg="web_video_server" type="web_video_server" output="screen" />
+</launch>

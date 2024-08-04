@@ -1,0 +1,8 @@
+<launch>
+    <!-- Launch the talker node -->
+    <node name="navWPgrid" pkg="mavros_py" type="navtest.py" output="screen">
+    </node>
+
+    <!-- Launch the listener node -->
+    <node name="takeImg" pkg="mavros_py" type="testnav.py" output="screen" />
+</launch>
