@@ -1,4 +1,4 @@
-# WALL-E
+# Graduation Project: AI-Powered Agriculture App with Drone Integration
 
 This repository contains the source code for a mobile application developed as part of a graduation project. The app uses a deep learning model to classify plant diseases and facilitates the control and monitoring of a drone used to scan agricultural fields. The mobile solution is built with Flutter and integrates various technologies for comprehensive, real-time functionality.
 
